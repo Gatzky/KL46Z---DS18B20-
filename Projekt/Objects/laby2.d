@@ -1,0 +1,11 @@
+.\objects\laby2.o: Laby2.c
+.\objects\laby2.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\MKL46Z4.h
+.\objects\laby2.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\core_cm0plus.h
+.\objects\laby2.o: C:\Keil_v5\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\laby2.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_compiler.h
+.\objects\laby2.o: C:\Keil_v5\ARM\PACK\ARM\CMSIS\5.0.0-Beta12\CMSIS\Include\cmsis_armcc.h
+.\objects\laby2.o: C:\Keil_v5\ARM\PACK\Keil\Kinetis_KLxx_DFP\1.12.0\Device\Include\system_MKL46Z4.h
+.\objects\laby2.o: leds.h
+.\objects\laby2.o: extra.h
+.\objects\laby2.o: buttons.h
+.\objects\laby2.o: slcd.h
